@@ -1,2 +1,2 @@
 # C
-Learning C Language
+### C Language algorithms for GenData.
